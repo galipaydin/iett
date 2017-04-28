@@ -1,0 +1,507 @@
+1;KİRAZLITEPE - ACIBADEM - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/1/KİRAZLITEPE - ACIBADEM - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+2;BOSTANCI - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/2/BOSTANCI - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+3;BURHANİYE MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/3/BURHANİYE MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+3A;KADIKÖY - ÜNALAN MAHALLESİ;http://www.iett.istanbul/tr/main/hatlar/3A/KADIKÖY - ÜNALAN MAHALLESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+3B;KADIKÖY - ÜNALAN MAHALLESİ;http://www.iett.istanbul/tr/main/hatlar/3B/KADIKÖY - ÜNALAN MAHALLESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+4;BOSTANCI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/4/BOSTANCI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+6;KÜÇÜKÇAMLICA / BULGURLU - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/6/KÜÇÜKÇAMLICA / BULGURLU - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+7;TOPAĞACI MAHALLESİ / ÜMRANİYE - RASATHANE;http://www.iett.istanbul/tr/main/hatlar/7/TOPAĞACI MAHALLESİ / ÜMRANİYE - RASATHANE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+8;VALİEVLERİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/8/VALİEVLERİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+8A;BATI ATAŞEHİR / FİKİRTEPE - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/8A/BATI ATAŞEHİR / FİKİRTEPE - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+8E;ESENEVLER - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/8E/ESENEVLER - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+8K;TEPEÜSTÜ - ATAŞEHİR / KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/8K/TEPEÜSTÜ - ATAŞEHİR / KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+8Y;SOYAK YENİŞEHİR - YENİSAHRA METRO;http://www.iett.istanbul/tr/main/hatlar/8Y/SOYAK YENİŞEHİR - YENİSAHRA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9;ADEM YAVUZ MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9/ADEM YAVUZ MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9A;ATAKENT - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9A/ATAKENT - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9Ç;ÇEKMEKÖY - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9Ç/ÇEKMEKÖY - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9ÇN;ÇEKMEKÖY - NİŞANTEPE;http://www.iett.istanbul/tr/main/hatlar/9ÇN/ÇEKMEKÖY - NİŞANTEPE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9H;CUMHURİYETKÖY / HÜSEYİNLİ - ÇEKMEKÖY;http://www.iett.istanbul/tr/main/hatlar/9H/CUMHURİYETKÖY / HÜSEYİNLİ - ÇEKMEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9K;TAŞDELEN-KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/9K/TAŞDELEN-KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9Ş;ŞAHİNBEY - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9Ş/ŞAHİNBEY - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9T;ŞAHİNBEY - ALTUNİZADE METROBÜS;http://www.iett.istanbul/tr/main/hatlar/9T/ŞAHİNBEY - ALTUNİZADE METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9Ü;DEMOKRASİ CADDESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9Ü/DEMOKRASİ CADDESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+9ÜD;ŞAHİNBEY / DUDULLU - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/9ÜD/ŞAHİNBEY / DUDULLU - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10;ÜMRANİYE DEVLET HASTANESİ - ATAŞEHİR / BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/10/ÜMRANİYE DEVLET HASTANESİ - ATAŞEHİR / BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10A;ESATPAŞA - ATAŞEHİR / YEDİTEPE ÜNİVERSİTESİ;http://www.iett.istanbul/tr/main/hatlar/10A/ESATPAŞA - ATAŞEHİR / YEDİTEPE ÜNİVERSİTESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10B;BOSTANCI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/10B/BOSTANCI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10E;ESATPAŞA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/10E/ESATPAŞA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10G;ÜMRANİYE / ESATPAŞA - GÖZTEPE;http://www.iett.istanbul/tr/main/hatlar/10G/ÜMRANİYE / ESATPAŞA - GÖZTEPE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+10S;BOSTANCI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/10S/BOSTANCI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11;YENİDOĞAN - ALTUNİZADE METROBÜS;http://www.iett.istanbul/tr/main/hatlar/11/YENİDOĞAN - ALTUNİZADE METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11A;ALEMDAĞ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11A/ALEMDAĞ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11BE;BURHANİYE MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11BE/BURHANİYE MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11C;EMNİYET MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11C/EMNİYET MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11ÇB;KAVACIK / ÇAVUŞBAŞI - ÜMRANİYE;http://www.iett.istanbul/tr/main/hatlar/11ÇB/KAVACIK / ÇAVUŞBAŞI - ÜMRANİYE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11D;İNKILAP MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11D/İNKILAP MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11E;ESATPAŞA - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11E/ESATPAŞA - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11EK;ESATPAŞA / KARLIDERE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11EK/ESATPAŞA / KARLIDERE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11ES;ESENEVLER - ACIBADEM METROBÜS / ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11ES/ESENEVLER - ACIBADEM METROBÜS / ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11G;YENİDOĞAN - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11G/YENİDOĞAN - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11H;ORTAÇEŞME - ÜMRANİYE;http://www.iett.istanbul/tr/main/hatlar/11H/ORTAÇEŞME - ÜMRANİYE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11K;KAZIM KARABEKİR MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11K/KAZIM KARABEKİR MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11L;ESATPAŞA / BULGURLU - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11L/ESATPAŞA / BULGURLU - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11M;MUSTAFA KEMAL MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11M/MUSTAFA KEMAL MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11N;ESENEVLER - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11N/ESENEVLER - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11P;SARIGAZİ EMEK MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11P/SARIGAZİ EMEK MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11R;REŞADİYE - MADENLER;http://www.iett.istanbul/tr/main/hatlar/11R/REŞADİYE - MADENLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11SA;UĞUR MUMCU / SAMANDIRA - ALTUNİZADE METROBÜS;http://www.iett.istanbul/tr/main/hatlar/11SA/UĞUR MUMCU / SAMANDIRA - ALTUNİZADE METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11ST;DUMLUPINAR - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11ST/DUMLUPINAR - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11T;TÜRKİŞ BLOKLARI - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11T/TÜRKİŞ BLOKLARI - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11Ü;ESATPAŞA / ÜNALAN - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11Ü/ESATPAŞA / ÜNALAN - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11ÜS;SULTANBEYLİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11ÜS/SULTANBEYLİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11V;VEYSEL KARANİ - ALTUNİZADE METROBÜS;http://www.iett.istanbul/tr/main/hatlar/11V/VEYSEL KARANİ - ALTUNİZADE METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+11Y;YAVUZTÜRK MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/11Y/YAVUZTÜRK MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+12;KADIKÖY - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/12/KADIKÖY - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+12A;KADIKÖY - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/12A/KADIKÖY - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+12C;ÜSKÜDAR DEVLET HASTANESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/12C/ÜSKÜDAR DEVLET HASTANESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+12H;KADIKÖY - HAREM / ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/12H/KADIKÖY - HAREM / ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+12ÜS;SANCAKTEPE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/12ÜS/SANCAKTEPE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13;ATAŞEHİR / ÇAKMAK MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/13/ATAŞEHİR / ÇAKMAK MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13AB;ALTUNİZADE - ATAŞEHİR / BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/13AB/ALTUNİZADE - ATAŞEHİR / BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13B;YENİŞEHİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/13B/YENİŞEHİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13H;EVTAŞ BLOKLARI - ÜMRANİYE DEVLET HASTANESİ;http://www.iett.istanbul/tr/main/hatlar/13H/EVTAŞ BLOKLARI - ÜMRANİYE DEVLET HASTANESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13M;ŞERİFALİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/13M/ŞERİFALİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13TD;TEPEÜSTÜ - ÜSKÜDAR DEVLET HASTANESİ;http://www.iett.istanbul/tr/main/hatlar/13TD/TEPEÜSTÜ - ÜSKÜDAR DEVLET HASTANESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+13Y;ÇAKMAK MAHALLESİ / YENİSAHRA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/13Y/ÇAKMAK MAHALLESİ / YENİSAHRA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14;YENİDOĞAN - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14/YENİDOĞAN - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14A;ALEMDAĞ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14A/ALEMDAĞ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14AK;ALEMDAĞ - ZİVERBEY / KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14AK/ALEMDAĞ - ZİVERBEY / KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14B;ADEM YAVUZ MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14B/ADEM YAVUZ MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14BK;PARSELLER MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14BK/PARSELLER MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14C;ÜSKÜDAR DEVLET HASTANESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14C/ÜSKÜDAR DEVLET HASTANESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14CE;ÇEKMEKÖY - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14CE/ÇEKMEKÖY - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14ÇK;ŞAHİNBEY - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14ÇK/ŞAHİNBEY - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14D;DUMLUPINAR / KAZIMKARABEKİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14D/DUMLUPINAR / KAZIMKARABEKİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14DK;İNKILAP MAHALLESİ - LİBADİYE CADDESİ / KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14DK/İNKILAP MAHALLESİ - LİBADİYE CADDESİ / KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14E;KAZIM KARABEKİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14E/KAZIM KARABEKİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14ES;ESENŞEHİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14ES/ESENŞEHİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14F;KÜPLÜCE - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14F/KÜPLÜCE - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14FD;FERAH MAHALLESİ - ÜSKÜDAR DEVLET HASTANESİ;http://www.iett.istanbul/tr/main/hatlar/14FD/FERAH MAHALLESİ - ÜSKÜDAR DEVLET HASTANESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14K;KAZIM KARABEKİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14K/KAZIM KARABEKİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14KS;SULTANBEYLİ GÖLET - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/14KS/SULTANBEYLİ GÖLET - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14M;KAVACIK YENİ CAMİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14M/KAVACIK YENİ CAMİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14R;RASATHANE - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14R/RASATHANE - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14S;SULTANBEYLİ - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/14S/SULTANBEYLİ - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14ŞB;ŞAHİNBEY - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14ŞB/ŞAHİNBEY - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14T;TAŞDELEN - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/14T/TAŞDELEN - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14Y;YAVUZTÜRK MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/14Y/YAVUZTÜRK MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14YE;YAVUZTÜRK MAHALLESİ / ÜMRANİYE - EMEK MAHALLESİ;http://www.iett.istanbul/tr/main/hatlar/14YE/YAVUZTÜRK MAHALLESİ / ÜMRANİYE - EMEK MAHALLESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+14YK;YENİDOĞAN / ŞİLE YOLU - AYRILIKÇEŞME;http://www.iett.istanbul/tr/main/hatlar/14YK/YENİDOĞAN / ŞİLE YOLU - AYRILIKÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15;BEYKOZ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15/BEYKOZ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15A;ANADOLUKAVAĞI - KAVACIK;http://www.iett.istanbul/tr/main/hatlar/15A/ANADOLUKAVAĞI - KAVACIK-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15B;TOPAĞACI MAHALLESİ / GÜZELTEPE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15B/TOPAĞACI MAHALLESİ / GÜZELTEPE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15BK;DERESEKİ / BEYKOZ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/15BK/DERESEKİ / BEYKOZ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15C;FERAH MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15C/FERAH MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15ÇB;KAVACIK - ÇAVUŞBAŞI / ÇENGELDERE;http://www.iett.istanbul/tr/main/hatlar/15ÇB/KAVACIK - ÇAVUŞBAŞI / ÇENGELDERE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15ÇK;GÜZELTEPE - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/15ÇK/GÜZELTEPE - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15D;ANADOLUFENERİ / HALAYIKDERE / DERESEKİ - KAVACIK;http://www.iett.istanbul/tr/main/hatlar/15D/ANADOLUFENERİ / HALAYIKDERE / DERESEKİ - KAVACIK-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15E;TEKKE MEVKİİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15E/TEKKE MEVKİİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15F;BEYKOZ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/15F/BEYKOZ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15H;HEKİMBAŞI - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15H/HEKİMBAŞI - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15K;KİRAZLITEPE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15K/KİRAZLITEPE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15KB;KAVACIK - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/15KB/KAVACIK - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15KÇ;KARANLIKDERE / ÇAVUŞBAŞI - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15KÇ/KARANLIKDERE / ÇAVUŞBAŞI - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15M;KAVACIK YENİ CAMİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15M/KAVACIK YENİ CAMİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15N;ARKBOYU - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15N/ARKBOYU - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15P;SOĞUKSU MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15P/SOĞUKSU MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15R;RASATHANE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15R/RASATHANE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15S;SULTANMURAT - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15S/SULTANMURAT - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15SK;SULTANMURAT - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/15SK/SULTANMURAT - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15ŞN;ŞENEVLER - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15ŞN/ŞENEVLER - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15T;TOKATKÖY - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15T/TOKATKÖY - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15TY;TOKATKÖY / BEYKOZ - ÜMRANİYE DEVLET HASTANESİ;http://www.iett.istanbul/tr/main/hatlar/15TY/TOKATKÖY / BEYKOZ - ÜMRANİYE DEVLET HASTANESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15U;TUFAN MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15U/TUFAN MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15Y;YENİMAHALLE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15Y/YENİMAHALLE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15YK;YENİMAHALLE - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/15YK/YENİMAHALLE - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+15Z;GÜZELTEPE - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/15Z/GÜZELTEPE - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16;PENDİK - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16/PENDİK - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16A;PENDİK - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/16A/PENDİK - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16B;KARTAL METRO / TOPSELVİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16B/KARTAL METRO / TOPSELVİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16C;HİLAL KONUTLARI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16C/HİLAL KONUTLARI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16D;ALTKAYNARCA / PENDİK - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16D/ALTKAYNARCA / PENDİK - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16F;FINDIKLI MAHALLESİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/16F/FINDIKLI MAHALLESİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16FK;FINDIKLI MAHALLESİ - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/16FK/FINDIKLI MAHALLESİ - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16KH;YENİŞEHİR / MARMARA ÜNİV. HASTANESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16KH/YENİŞEHİR / MARMARA ÜNİV. HASTANESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16M;ATAŞEHİR - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/16M/ATAŞEHİR - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16S;SABİHA GÖKÇEN HAVALİMANI - UZUNÇAYIR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/16S/SABİHA GÖKÇEN HAVALİMANI - UZUNÇAYIR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16U;UĞURMUMCU - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/16U/UĞURMUMCU - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16Y;YEŞİLBAĞLAR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16Y/YEŞİLBAĞLAR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+16Z;ÇAMLIK / KARTAL CEZAEVİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/16Z/ÇAMLIK / KARTAL CEZAEVİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17;PENDİK - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/17/PENDİK - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17B;GEBZE - KARTAL METRO;http://www.iett.istanbul/tr/main/hatlar/17B/GEBZE - KARTAL METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17K;KAVAKPINAR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/17K/KAVAKPINAR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17L;KÜÇÜKYALI LOJMANLARI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/17L/KÜÇÜKYALI LOJMANLARI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17P;TUZLA EMLAK KONUTLARI - UZUNÇAYIR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/17P/TUZLA EMLAK KONUTLARI - UZUNÇAYIR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+17S;UĞURMUMCU - BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/17S/UĞURMUMCU - BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18A;SULTANBEYLİ UZUNDERE - UZUNÇAYIR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/18A/SULTANBEYLİ UZUNDERE - UZUNÇAYIR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18E;YENİDOĞAN / SAMANDIRA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/18E/YENİDOĞAN / SAMANDIRA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18K;SULTANBEYLİ GÖLET - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/18K/SULTANBEYLİ GÖLET - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18M;SULTANBEYLİ MİMARSİNAN - UZUNÇAYIR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/18M/SULTANBEYLİ MİMARSİNAN - UZUNÇAYIR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18Ü;SULTANBEYLİ - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/18Ü/SULTANBEYLİ - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18V;VEYSEL KARANİ / SAMANDIRA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/18V/VEYSEL KARANİ / SAMANDIRA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+18Y;YENİDOĞAN / SAMANDIRA - ÜSKÜDAR;http://www.iett.istanbul/tr/main/hatlar/18Y/YENİDOĞAN / SAMANDIRA - ÜSKÜDAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19;FERHATPAŞA / YEDİTEPE ÜNİVERSİTESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19/FERHATPAŞA / YEDİTEPE ÜNİVERSİTESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19A;YENİDOĞAN - AYRILIKÇEŞME;http://www.iett.istanbul/tr/main/hatlar/19A/YENİDOĞAN - AYRILIKÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19B;BAŞIBÜYÜK MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19B/BAŞIBÜYÜK MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19D;ÜMRANİYE - BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/19D/ÜMRANİYE - BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19E;YENİDOĞAN - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19E/YENİDOĞAN - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19ES;ESENŞEHİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19ES/ESENŞEHİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19F;YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19F/YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19FB;FINDIKLI MAHALLESİ - BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/19FB/FINDIKLI MAHALLESİ - BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19FK;FINDIKLI MAHALLESİ - AYRILIKÇEŞME;http://www.iett.istanbul/tr/main/hatlar/19FK/FINDIKLI MAHALLESİ - AYRILIKÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19H;MARMARA EĞİTİM KÖYÜ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19H/MARMARA EĞİTİM KÖYÜ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19K;ACARLAR SİTESİ / KAYIŞDAĞI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19K/ACARLAR SİTESİ / KAYIŞDAĞI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19M;ATAŞEHİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19M/ATAŞEHİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19S;YENİDOĞAN / SARIGAZİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19S/YENİDOĞAN / SARIGAZİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19SB;SULTANBEYLİ - BOSTANCI;http://www.iett.istanbul/tr/main/hatlar/19SB/SULTANBEYLİ - BOSTANCI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19T;FERHATPAŞA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19T/FERHATPAŞA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19V;VEYSEL KARANİ / SAMANDIRA - KOZYATAĞI METRO;http://www.iett.istanbul/tr/main/hatlar/19V/VEYSEL KARANİ / SAMANDIRA - KOZYATAĞI METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19Y;FERHATPAŞA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19Y/FERHATPAŞA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+19Z;ZÜMRÜTEVLER - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/19Z/ZÜMRÜTEVLER - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+20;ORTAÇEŞME / KAVACIK - ÜMRANİYE DEVLET HASTANESİ;http://www.iett.istanbul/tr/main/hatlar/20/ORTAÇEŞME / KAVACIK - ÜMRANİYE DEVLET HASTANESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+20D;DUDULLU / YENİŞEHİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/20D/DUDULLU / YENİŞEHİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+20E;ESATPAŞA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/20E/ESATPAŞA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+20K;KAZIM KARABEKİR - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/20K/KAZIM KARABEKİR - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+20Ü;ÜMRANİYE TEPEÜSTÜ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/20Ü/ÜMRANİYE TEPEÜSTÜ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21B;KÜÇÜKBAKKALKÖY - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21B/KÜÇÜKBAKKALKÖY - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21C;ESENKENT - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21C/ESENKENT - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21G;GÜLENSU MAHALLESİ - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21G/GÜLENSU MAHALLESİ - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21K;KURFALI - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21K/KURFALI - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21U;UĞURMUMCU - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21U/UĞURMUMCU - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+21Y;BATI ATAŞEHİR / YENİSAHRA - KADIKÖY;http://www.iett.istanbul/tr/main/hatlar/21Y/BATI ATAŞEHİR / YENİSAHRA - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+22;İSTİNYE DEREİÇİ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/22/İSTİNYE DEREİÇİ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+22RE;FATİH SULTAN MEHMET - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/22RE/FATİH SULTAN MEHMET - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25;HACIOSMAN METRO - TÜNEL / SARIYER;http://www.iett.istanbul/tr/main/hatlar/25/HACIOSMAN METRO - TÜNEL / SARIYER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25A;RUMELİKAVAĞI - HACIOSMAN METRO;http://www.iett.istanbul/tr/main/hatlar/25A/RUMELİKAVAĞI - HACIOSMAN METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25C;TARABYAÜSTÜ / FERAHEVLER - İSTİNYE;http://www.iett.istanbul/tr/main/hatlar/25C/TARABYAÜSTÜ / FERAHEVLER - İSTİNYE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25E;SARIYER - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/25E/SARIYER - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25G;SARIYER - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/25G/SARIYER - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+25Y;HACIOSMAN METRO - YUNUS EMRE / UYUM SİTESİ;http://www.iett.istanbul/tr/main/hatlar/25Y/HACIOSMAN METRO - YUNUS EMRE / UYUM SİTESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+26;DİKİLİTAŞ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/26/DİKİLİTAŞ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+26A;FULYA MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/26A/FULYA MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+26B;GAYRETTEPE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/26B/GAYRETTEPE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+27E;ŞİRİNTEPE - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/27E/ŞİRİNTEPE - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+27SE;SEYRANTEPE - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/27SE/SEYRANTEPE - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+27T;ŞİRİNTEPE - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/27T/ŞİRİNTEPE - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+28;TOPKAPI / EDİRNEKAPI - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/28/TOPKAPI / EDİRNEKAPI - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+28T;TOPKAPI - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/28T/TOPKAPI - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29;PINAR MAHALLESİ - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/29/PINAR MAHALLESİ - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29A;DERBENT MAHALLESİ - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/29A/DERBENT MAHALLESİ - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29B;FATİH SULTAN MEHMET - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/29B/FATİH SULTAN MEHMET - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29C;TARABYAÜSTÜ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/29C/TARABYAÜSTÜ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29D;FERAHEVLER - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/29D/FERAHEVLER - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29GM;MASLAK GAZETECİLER SİTESİ - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/29GM/MASLAK GAZETECİLER SİTESİ - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29İ;MASLAK GAZETECİLER SİTESİ - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/29İ/MASLAK GAZETECİLER SİTESİ - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29M1;HACIOSMAN METRO - FERAHEVLER;http://www.iett.istanbul/tr/main/hatlar/29M1/HACIOSMAN METRO - FERAHEVLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29M2;HACIOSMAN METRO - FERAHEVLER;http://www.iett.istanbul/tr/main/hatlar/29M2/HACIOSMAN METRO - FERAHEVLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29P;POLİGON MAHALLESİ - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/29P/POLİGON MAHALLESİ - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29Ş;İSTİNYE DEREİÇİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/29Ş/İSTİNYE DEREİÇİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+29T;TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE;http://www.iett.istanbul/tr/main/hatlar/29T/TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+30A;BEŞİKTAŞ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/30A/BEŞİKTAŞ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+30D;ORTAKÖY DEREBOYU - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/30D/ORTAKÖY DEREBOYU - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+30M;BEŞİKTAŞ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/30M/BEŞİKTAŞ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+31;YENİBOSNA KUYUMCUKENT - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/31/YENİBOSNA KUYUMCUKENT - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+31E;YENİBOSNA KUYUMCUKENT - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/31E/YENİBOSNA KUYUMCUKENT - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+31K;KUYUMCUKENT-YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/31K/KUYUMCUKENT-YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+31Y;TOKİ AYAZMA - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/31Y/TOKİ AYAZMA - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+32;CEVATPAŞA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/32/CEVATPAŞA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+32A;CEVATPAŞA - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/32A/CEVATPAŞA - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+32M;CEVATPAŞA - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/32M/CEVATPAŞA - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+32T;CEVATPAŞA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/32T/CEVATPAŞA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33;ESENLER GİYİMKENT / TURGUTREİS - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/33/ESENLER GİYİMKENT / TURGUTREİS - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33B;ESENLER GİYİMKENT / BİRLİK MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/33B/ESENLER GİYİMKENT / BİRLİK MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33E;ESENLER METRO - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/33E/ESENLER METRO - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33ES;ESENLER GİYİMKENT / ATIŞALANI - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/33ES/ESENLER GİYİMKENT / ATIŞALANI - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33M;ESENLER GİYİMKENT - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/33M/ESENLER GİYİMKENT - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33TE;ESENLER TURGUTREİS - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/33TE/ESENLER TURGUTREİS - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33TM;ESENLER GİYİMKENT / TURGUTREİS - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/33TM/ESENLER GİYİMKENT / TURGUTREİS - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+33Y;ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/33Y/ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34;AVCILAR-ZİNCİRLİKUYU;http://www.iett.istanbul/tr/main/hatlar/34/AVCILAR-ZİNCİRLİKUYU-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34A;CEVİZLİBAĞ - SÖĞÜTLÜÇEŞME;http://www.iett.istanbul/tr/main/hatlar/34A/CEVİZLİBAĞ - SÖĞÜTLÜÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34AS;AVCILAR - SÖĞÜTLÜÇEŞME;http://www.iett.istanbul/tr/main/hatlar/34AS/AVCILAR - SÖĞÜTLÜÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34B;BEYLİKDÜZÜ-AVCILAR;http://www.iett.istanbul/tr/main/hatlar/34B/BEYLİKDÜZÜ-AVCILAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34BZ;BEYLİKDÜZÜ - ZİNCİRLİKUYU;http://www.iett.istanbul/tr/main/hatlar/34BZ/BEYLİKDÜZÜ - ZİNCİRLİKUYU-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34C;BEYLİKDÜZÜ-CEVİZLİBAĞ;http://www.iett.istanbul/tr/main/hatlar/34C/BEYLİKDÜZÜ-CEVİZLİBAĞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34G;BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME;http://www.iett.istanbul/tr/main/hatlar/34G/BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34T;AVCILAR -TOPKAPI;http://www.iett.istanbul/tr/main/hatlar/34T/AVCILAR -TOPKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34U;ZİNCİRLİKUYU-UZUNÇAYIR;http://www.iett.istanbul/tr/main/hatlar/34U/ZİNCİRLİKUYU-UZUNÇAYIR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+34Z;ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME;http://www.iett.istanbul/tr/main/hatlar/34Z/ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+35;KOCAMUSTAFAPAŞA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/35/KOCAMUSTAFAPAŞA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+35A;KOCAMUSTAFAPAŞA - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/35A/KOCAMUSTAFAPAŞA - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+35C;KOCAMUSTAFAPAŞA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/35C/KOCAMUSTAFAPAŞA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+35D;KOCAMUSTAFAPAŞA - BALAT;http://www.iett.istanbul/tr/main/hatlar/35D/KOCAMUSTAFAPAŞA - BALAT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36;KARADENİZ MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/36/KARADENİZ MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36A;CEBECİ - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/36A/CEBECİ - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36AS;TAŞOLUK PERONLAR- SEFAKÖY YENİBOSNA METRO/;http://www.iett.istanbul/tr/main/hatlar/36AS/TAŞOLUK PERONLAR- SEFAKÖY YENİBOSNA METRO/-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36AY;ARNAVUTKÖY - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/36AY/ARNAVUTKÖY - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36B;BOLLUCA / BOĞAZKÖY - CEBECİ;http://www.iett.istanbul/tr/main/hatlar/36B/BOLLUCA / BOĞAZKÖY - CEBECİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36Bİ;TAŞOLUK PERON- CEBECİ PERONLAR;http://www.iett.istanbul/tr/main/hatlar/36Bİ/TAŞOLUK PERON- CEBECİ PERONLAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36C;CEBECİ MAHALLESİ-ARNAVUTKÖY MERKEZ;http://www.iett.istanbul/tr/main/hatlar/36C/CEBECİ MAHALLESİ-ARNAVUTKÖY MERKEZ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36CE;CEBECİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/36CE/CEBECİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36Cİ;CEBECİ KÖYÜ - İSTİKLAL MAHALLESİ;http://www.iett.istanbul/tr/main/hatlar/36Cİ/CEBECİ KÖYÜ - İSTİKLAL MAHALLESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36CY;CEBECİ - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/36CY/CEBECİ - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36D;ARNAVUTKÖY - DELİKLİKAYA;http://www.iett.istanbul/tr/main/hatlar/36D/ARNAVUTKÖY - DELİKLİKAYA-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36E;50.YIL MAHALLESİ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/36E/50.YIL MAHALLESİ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36EM;CEBECİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/36EM/CEBECİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36ES;ESENTEPE MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/36ES/ESENTEPE MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36F;CEBECİ PERONLAR-FENERTEPE;http://www.iett.istanbul/tr/main/hatlar/36F/CEBECİ PERONLAR-FENERTEPE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36HT;TAŞOLUK TOKİ / HARAÇÇI - CEBECİ;http://www.iett.istanbul/tr/main/hatlar/36HT/TAŞOLUK TOKİ / HARAÇÇI - CEBECİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36KE;KARADENİZ MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/36KE/KARADENİZ MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36L;MESCİDİSELAM - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/36L/MESCİDİSELAM - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36M;CEBECİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/36M/CEBECİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36P;CEBECİ-EYÜP;http://www.iett.istanbul/tr/main/hatlar/36P/CEBECİ-EYÜP-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36S;HABİPLER MERKEZ - SULTANGAZİ BELEDİYESİ;http://www.iett.istanbul/tr/main/hatlar/36S/HABİPLER MERKEZ - SULTANGAZİ BELEDİYESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36T;CEBECİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/36T/CEBECİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36V;YAYLA MAHALLESİ - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/36V/YAYLA MAHALLESİ - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36Y;TAŞOLUK PERONLAR- ARNAVUTKÖY - YENİKAPI MARMARAY;http://www.iett.istanbul/tr/main/hatlar/36Y/TAŞOLUK PERONLAR- ARNAVUTKÖY - YENİKAPI MARMARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36YM;YUNUS EMRE MAHALLESİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/36YM/YUNUS EMRE MAHALLESİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+36YS;YASSIÖREN - ARNAVUTKÖY;http://www.iett.istanbul/tr/main/hatlar/36YS/YASSIÖREN - ARNAVUTKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+37;YEŞİLPINAR -YILDIZTABYA- EYÜP;http://www.iett.istanbul/tr/main/hatlar/37/YEŞİLPINAR -YILDIZTABYA- EYÜP-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+37E;YILDIZTABYA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/37E/YILDIZTABYA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+37M;YILDIZTABYA - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/37M/YILDIZTABYA - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+37T;YILDIZTABYA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/37T/YILDIZTABYA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+37Y;YILDIZTABYA - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/37Y/YILDIZTABYA - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38;YUNUS EMRE MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/38/YUNUS EMRE MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38B;YUNUS EMRE MAHALLESİ - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/38B/YUNUS EMRE MAHALLESİ - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38E;G.O.PAŞA DEVLET HASTANESİ / KÜÇÜKKÖY - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/38E/G.O.PAŞA DEVLET HASTANESİ / KÜÇÜKKÖY - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38G;GAZİOSMANPAŞA DEVLET HASTANESİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/38G/GAZİOSMANPAŞA DEVLET HASTANESİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38M;CEVATPAŞA / KÜÇÜKKÖY - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/38M/CEVATPAŞA / KÜÇÜKKÖY - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38T;KÜÇÜKKÖY-TAKSİM;http://www.iett.istanbul/tr/main/hatlar/38T/KÜÇÜKKÖY-TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+38Z;ZÜBEYDE HANIM MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/38Z/ZÜBEYDE HANIM MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39;AKŞEMSETTİN - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/39/AKŞEMSETTİN - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39B;İMAR BLOKLARI - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/39B/İMAR BLOKLARI - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39Ç;HAMİDİYE MAHALLESİ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/39Ç/HAMİDİYE MAHALLESİ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39D;YEŞİLPINAR - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/39D/YEŞİLPINAR - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39K;BİNEVLER - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/39K/BİNEVLER - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39O;YEŞİLPINAR - OTOGAR;http://www.iett.istanbul/tr/main/hatlar/39O/YEŞİLPINAR - OTOGAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+39Y;YEŞİLPINAR - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/39Y/YEŞİLPINAR - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+40;RUMELİFENERİ / GARİPÇE - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/40/RUMELİFENERİ / GARİPÇE - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+40B;SARIYER - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/40B/SARIYER - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+40T;İSTİNYE DEREİÇİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/40T/İSTİNYE DEREİÇİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41;SİNPAŞ SİTESİ / SARIYER - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/41/SİNPAŞ SİTESİ / SARIYER - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41A;AYAZAĞA - MASLAK;http://www.iett.istanbul/tr/main/hatlar/41A/AYAZAĞA - MASLAK-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41AT;AYAZAĞA - DAVUTPAŞA YILDIZ TEKNİK ÜNİVERSİTESİ;http://www.iett.istanbul/tr/main/hatlar/41AT/AYAZAĞA - DAVUTPAŞA YILDIZ TEKNİK ÜNİVERSİTESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41C;AYAZAĞA - SARIYER;http://www.iett.istanbul/tr/main/hatlar/41C/AYAZAĞA - SARIYER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41E;AYAZAĞA - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/41E/AYAZAĞA - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41SF;SARIYER - FATİH SULTAN MEHMET;http://www.iett.istanbul/tr/main/hatlar/41SF/SARIYER - FATİH SULTAN MEHMET-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41SM;AYAZAĞA GARAJI - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/41SM/AYAZAĞA GARAJI - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41ST;SEYRANTEPE - TOPKAPI;http://www.iett.istanbul/tr/main/hatlar/41ST/SEYRANTEPE - TOPKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+41Y;AYAZAĞA / KAĞITHANE - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/41Y/AYAZAĞA / KAĞITHANE - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42;BAHÇEKÖY / FERAHEVLER - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/42/BAHÇEKÖY / FERAHEVLER - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42A;HACIOSMAN METRO - KOCATAŞ;http://www.iett.istanbul/tr/main/hatlar/42A/HACIOSMAN METRO - KOCATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42HM;BAHÇEKÖY - HACIOSMAN;http://www.iett.istanbul/tr/main/hatlar/42HM/BAHÇEKÖY - HACIOSMAN-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42K;KAZIMKARABEKİR - SARIYER;http://www.iett.istanbul/tr/main/hatlar/42K/KAZIMKARABEKİR - SARIYER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42KM;4.LEVENT METRO - KOCATAŞ;http://www.iett.istanbul/tr/main/hatlar/42KM/4.LEVENT METRO - KOCATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42KT;SARIYER - KOCATAŞ;http://www.iett.istanbul/tr/main/hatlar/42KT/SARIYER - KOCATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42M;BAHÇEKÖY - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/42M/BAHÇEKÖY - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42T;BAHÇEKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/42T/BAHÇEKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+42Z;KAZIMKARABEKİR - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/42Z/KAZIMKARABEKİR - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+43;DİKİLİTAŞ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/43/DİKİLİTAŞ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+43R;RUMELİ HİSARÜSTÜ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/43R/RUMELİ HİSARÜSTÜ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+44B;HAMİDİYE MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/44B/HAMİDİYE MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+46Ç;ÇAĞLAYAN - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/46Ç/ÇAĞLAYAN - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+46E;HÜRRİYET MAHALLESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/46E/HÜRRİYET MAHALLESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+46H;HÜRRİYET MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/46H/HÜRRİYET MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+46KT;KUŞTEPE - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/46KT/KUŞTEPE - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+46T;ÇAĞLAYAN - TOPKAPI;http://www.iett.istanbul/tr/main/hatlar/46T/ÇAĞLAYAN - TOPKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+47;YEŞİLPINAR - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/47/YEŞİLPINAR - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+47Ç;GÜZELTEPE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/47Ç/GÜZELTEPE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+47E;BİNEVLER - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/47E/BİNEVLER - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+47L;BİNEVLER - HACIOSMAN METRO;http://www.iett.istanbul/tr/main/hatlar/47L/BİNEVLER - HACIOSMAN METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+47N;NUR SİTESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/47N/NUR SİTESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48;GÖKTÜRK - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/48/GÖKTÜRK - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48A;GÖKTÜRK - KAZLIÇEŞME;http://www.iett.istanbul/tr/main/hatlar/48A/GÖKTÜRK - KAZLIÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48B;ARICILAR / HAMİDİYE MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/48B/ARICILAR / HAMİDİYE MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48E;GÖKTÜRK - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/48E/GÖKTÜRK - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48H;HAMİDİYE MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/48H/HAMİDİYE MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48K;KEMERBURGAZ - AĞAÇLI KÖYÜ;http://www.iett.istanbul/tr/main/hatlar/48K/KEMERBURGAZ - AĞAÇLI KÖYÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48KA;KEMERBURGAZ - ARNAVUTKÖY;http://www.iett.istanbul/tr/main/hatlar/48KA/KEMERBURGAZ - ARNAVUTKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48L;GÖKTÜRK - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/48L/GÖKTÜRK - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48N;GÜZELTEPE - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/48N/GÜZELTEPE - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48P;KEMERBURGAZ - AKPINAR KÖYÜ;http://www.iett.istanbul/tr/main/hatlar/48P/KEMERBURGAZ - AKPINAR KÖYÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48S;SADABAT EVLERİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/48S/SADABAT EVLERİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+48T;HAMİDİYE MAHALLESİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/48T/HAMİDİYE MAHALLESİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49;YUNUS EMRE MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49/YUNUS EMRE MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49A;AKŞEMSETTİN - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49A/AKŞEMSETTİN - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49B;İMAR BLOKLARI - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49B/İMAR BLOKLARI - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49G;YUNUS EMRE MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49G/YUNUS EMRE MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49GB;YUNUS EMRE MAHALLESİ / BARAJ YOLU - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49GB/YUNUS EMRE MAHALLESİ / BARAJ YOLU - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49K;BİNEVLER - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49K/BİNEVLER - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49M;KAZIM KARABEKİR MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49M/KAZIM KARABEKİR MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49T;YEŞİLPINAR - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/49T/YEŞİLPINAR - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49Y;YEŞİLPINAR - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/49Y/YEŞİLPINAR - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+49Z;YEŞİLPINAR - ZİNCİRLİKUYU METROBÜS;http://www.iett.istanbul/tr/main/hatlar/49Z/YEŞİLPINAR - ZİNCİRLİKUYU METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+52;KONAKLAR MAHALLESİ - 4.LEVENT;http://www.iett.istanbul/tr/main/hatlar/52/KONAKLAR MAHALLESİ - 4.LEVENT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54B;BOMONTİ - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/54B/BOMONTİ - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54Ç;ÇIKSALIN - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54Ç/ÇIKSALIN - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54E;OKMEYDANI - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/54E/OKMEYDANI - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54HŞ;HASKÖY - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/54HŞ/HASKÖY - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54HT;HASKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54HT/HASKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54K;KULAKSIZ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54K/KULAKSIZ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54KT;KAPTANPAŞA - DOLAPDERE / TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54KT/KAPTANPAŞA - DOLAPDERE / TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54ÖR;ÖRNEKTEPE - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54ÖR/ÖRNEKTEPE - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54T;SADABAT EVLERİ / TALATPAŞA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/54T/SADABAT EVLERİ / TALATPAŞA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+54TE;SADABAT EVLERİ / TALATPAŞA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/54TE/SADABAT EVLERİ / TALATPAŞA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55;GAZİOSMANPAŞA - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/55/GAZİOSMANPAŞA - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55B;GAZİOSMANPAŞA - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/55B/GAZİOSMANPAŞA - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55ET;EYÜP ÜÇŞEHİTLER - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/55ET/EYÜP ÜÇŞEHİTLER - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55EY;EYÜP ÜÇŞEHİTLER - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/55EY/EYÜP ÜÇŞEHİTLER - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55T;GAZİOSMANPAŞA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/55T/GAZİOSMANPAŞA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+55Y;GAZİOSMANPAŞA - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/55Y/GAZİOSMANPAŞA - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+57UL;BEŞİKTAŞ - KURUÇEŞMEÜSTÜ;http://www.iett.istanbul/tr/main/hatlar/57UL/BEŞİKTAŞ - KURUÇEŞMEÜSTÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+58A;POLİGON MAHALLESİ / REŞİTPAŞA - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/58A/POLİGON MAHALLESİ / REŞİTPAŞA - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+58N;FATİH SULTAN MEHMET - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/58N/FATİH SULTAN MEHMET - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+58S;LEVAZIM MAHALLESİ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/58S/LEVAZIM MAHALLESİ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+58UL;ULUS MAHALLESİ - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/58UL/ULUS MAHALLESİ - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59A;İSTİNYE DEREİÇİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59A/İSTİNYE DEREİÇİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59B;LEVENT BASIN SİTESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59B/LEVENT BASIN SİTESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59CH;ARNAVUTKÖY - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/59CH/ARNAVUTKÖY - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59K;FATİH SULTAN KARAYOLLARI - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59K/FATİH SULTAN KARAYOLLARI - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59N;FATİH SULTAN MEHMET - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59N/FATİH SULTAN MEHMET - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59R;RUMELİ HİSARÜSTÜ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59R/RUMELİ HİSARÜSTÜ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59RH;RUMELİ HİSARÜSTÜ - İSTİNYE / HACIOSMAN METRO;http://www.iett.istanbul/tr/main/hatlar/59RH/RUMELİ HİSARÜSTÜ - İSTİNYE / HACIOSMAN METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59RK;RUMELİ HİSARÜSTÜ - BOĞAZİÇİ Ü. SARITEPE KMP ARIKÖY;http://www.iett.istanbul/tr/main/hatlar/59RK/RUMELİ HİSARÜSTÜ - BOĞAZİÇİ Ü. SARITEPE KMP ARIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59RS;SARIYER - RUMELİ HİSARÜSTÜ;http://www.iett.istanbul/tr/main/hatlar/59RS/SARIYER - RUMELİ HİSARÜSTÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59S;LEVAZIM MAHALLESİ - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59S/LEVAZIM MAHALLESİ - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+59UÇ;UÇAKSAVAR - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/59UÇ/UÇAKSAVAR - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+62;KAĞITHANE / GÜLTEPE - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/62/KAĞITHANE / GÜLTEPE - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+62G;GÜZELTEPE / HAMİDİYE - BEŞİKTAŞ;http://www.iett.istanbul/tr/main/hatlar/62G/GÜZELTEPE / HAMİDİYE - BEŞİKTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+63;KAĞITHANE / ÇELİKTEPE - KABATAŞ;http://www.iett.istanbul/tr/main/hatlar/63/KAĞITHANE / ÇELİKTEPE - KABATAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+64Ç;SADABAT EVLERİ / ÇELİKTEPE - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/64Ç/SADABAT EVLERİ / ÇELİKTEPE - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+65A;SEYRANTEPE - GÜLTEPE - PERPA;http://www.iett.istanbul/tr/main/hatlar/65A/SEYRANTEPE - GÜLTEPE - PERPA-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+65G;KAĞITHANE / GÜLTEPE - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/65G/KAĞITHANE / GÜLTEPE - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+66;GÜLBAĞ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/66/GÜLBAĞ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+66Z;ZİNCİRLİDERE - ŞİŞLİ;http://www.iett.istanbul/tr/main/hatlar/66Z/ZİNCİRLİDERE - ŞİŞLİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+69A;ESENTEPE / MECİDİYEKÖY - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/69A/ESENTEPE / MECİDİYEKÖY - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+70D;KURTULUŞ / DOLAPDERE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/70D/KURTULUŞ / DOLAPDERE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+70FE;FERİKÖY - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/70FE/FERİKÖY - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+70FY;FERİKÖY - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/70FY/FERİKÖY - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+70KE;KURTULUŞ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/70KE/KURTULUŞ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+70KY;KURTULUŞ - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/70KY/KURTULUŞ - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+71AT;ATAKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/71AT/ATAKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+71T;ATAKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/71T/ATAKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+72T;YEŞİLKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/72T/YEŞİLKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+72YT;YEŞİLKÖY - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/72YT/YEŞİLKÖY - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+73;YENİBOSNA METRO - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/73/YENİBOSNA METRO - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+73B;FLORYA - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/73B/FLORYA - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+73F;FLORYA - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/73F/FLORYA - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+73Y;YENİBOSNA METRO - YEŞİLKÖY / AKVARYUM;http://www.iett.istanbul/tr/main/hatlar/73Y/YENİBOSNA METRO - YEŞİLKÖY / AKVARYUM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+74;HİLTON SİTESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/74/HİLTON SİTESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+74A;GAYRETTEPE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/74A/GAYRETTEPE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+75M;AKSARAY - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/75M/AKSARAY - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+75O;OTOGAR - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/75O/OTOGAR - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76;BEYLİKDÜZÜ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/76/BEYLİKDÜZÜ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76A;ISPARTAKULE BİZİMEVLER - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/76A/ISPARTAKULE BİZİMEVLER - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76B;AVCILAR CİHANGİR MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/76B/AVCILAR CİHANGİR MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76C;BÜYÜKÇEKMECE - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/76C/BÜYÜKÇEKMECE - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76D;BAHÇEŞEHİR / ESENKENT - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/76D/BAHÇEŞEHİR / ESENKENT - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76E;BOĞAZKÖY / BAHÇEŞEHİR - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/76E/BOĞAZKÖY / BAHÇEŞEHİR - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76G;GÜRPINAR - AVCILAR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/76G/GÜRPINAR - AVCILAR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76İ;KİPTAŞ VADİTEPE/ISPARTAKULE - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/76İ/KİPTAŞ VADİTEPE/ISPARTAKULE - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76O;AVCILAR CİHANGİR MAHALLESİ - OTOGAR;http://www.iett.istanbul/tr/main/hatlar/76O/AVCILAR CİHANGİR MAHALLESİ - OTOGAR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76T;ISPARTAKULE BİZİMEVLER - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/76T/ISPARTAKULE BİZİMEVLER - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76TM;TEPECİK KİPTAŞ KONUTLARI - AVCILAR METROBÜS;http://www.iett.istanbul/tr/main/hatlar/76TM/TEPECİK KİPTAŞ KONUTLARI - AVCILAR METROBÜS-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+76Y;İHLAS MARMARA EVLERİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/76Y/İHLAS MARMARA EVLERİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+77;ŞİŞLİ - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/77/ŞİŞLİ - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+77A;ŞİŞLİ - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/77A/ŞİŞLİ - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+77Ç;ÇIKSALIN - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/77Ç/ÇIKSALIN - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78;BAŞAKŞEHİR 4.ETAP - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/78/BAŞAKŞEHİR 4.ETAP - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78A;OYAKKENT - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/78A/OYAKKENT - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78B;BAŞAKŞEHİR 4.ETAP - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/78B/BAŞAKŞEHİR 4.ETAP - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78BE;BAŞAKŞEHİR METROKENT - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/78BE/BAŞAKŞEHİR METROKENT - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78C;YUNUS EMRE MAHALLESİ - BAŞAKŞEHİR METROKENT;http://www.iett.istanbul/tr/main/hatlar/78C/YUNUS EMRE MAHALLESİ - BAŞAKŞEHİR METROKENT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78E;BAŞAKŞEHİR 4.ETAP - KAYABAŞI KİPTAŞ;http://www.iett.istanbul/tr/main/hatlar/78E/BAŞAKŞEHİR 4.ETAP - KAYABAŞI KİPTAŞ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78F;BAŞAKŞEHİR 4.ETAP - FENERTEPE;http://www.iett.istanbul/tr/main/hatlar/78F/BAŞAKŞEHİR 4.ETAP - FENERTEPE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78G;BAŞAKŞEHİR - GÜVERCİNTEPE / KAYAŞEHİR;http://www.iett.istanbul/tr/main/hatlar/78G/BAŞAKŞEHİR - GÜVERCİNTEPE / KAYAŞEHİR-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78H;BAŞAKŞEHİR METROKENT - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/78H/BAŞAKŞEHİR METROKENT - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78M;BAŞAKŞEHİR METROKENT - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/78M/BAŞAKŞEHİR METROKENT - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78Ş;BAŞAKŞEHİR - ŞAHİNTEPESİ;http://www.iett.istanbul/tr/main/hatlar/78Ş/BAŞAKŞEHİR - ŞAHİNTEPESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+78ZB;BAŞAKŞEHİR 4.ETAP - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/78ZB/BAŞAKŞEHİR 4.ETAP - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79B;KAYAŞEHİR - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/79B/KAYAŞEHİR - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79C;KAYAŞEHİR - CEBECİ MAHALLESİ;http://www.iett.istanbul/tr/main/hatlar/79C/KAYAŞEHİR - CEBECİ MAHALLESİ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79E;KAYABAŞI KİPTAŞ / KAYAŞEHİR - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/79E/KAYABAŞI KİPTAŞ / KAYAŞEHİR - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79F;KAYAŞEHİR - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/79F/KAYAŞEHİR - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79G;KAYAŞEHİR - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/79G/KAYAŞEHİR - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79K;KAYAŞEHİR - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/79K/KAYAŞEHİR - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79KM;KAYABAŞI KİPTAŞ-MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/79KM/KAYABAŞI KİPTAŞ-MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79M;KAYAŞEHİR - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/79M/KAYAŞEHİR - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79Ş;ŞAHİNTEPESİ - TOPKAPI;http://www.iett.istanbul/tr/main/hatlar/79Ş/ŞAHİNTEPESİ - TOPKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79T;KAYABAŞI KİPTAŞ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/79T/KAYABAŞI KİPTAŞ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+79Y;KAYAŞEHİR - YENİBOSNA METRO;http://www.iett.istanbul/tr/main/hatlar/79Y/KAYAŞEHİR - YENİBOSNA METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+80;YEDİKULE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/80/YEDİKULE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+80T;YEDİKULE - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/80T/YEDİKULE - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+81;YEŞİLKÖY - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/81/YEŞİLKÖY - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+82;YENİBOSNA METRO - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/82/YENİBOSNA METRO - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+82B;YENİBOSNA METRO - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/82B/YENİBOSNA METRO - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+83O;OTOGAR - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/83O/OTOGAR - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+85C;DAVUTPAŞA YTÜ - KAZLIÇEŞME;http://www.iett.istanbul/tr/main/hatlar/85C/DAVUTPAŞA YTÜ - KAZLIÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+85T;ESENLER METRO - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/85T/ESENLER METRO - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+86V;EYÜPSULTAN - VEZNECİLER;http://www.iett.istanbul/tr/main/hatlar/86V/EYÜPSULTAN - VEZNECİLER-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+87;TOPKAPI / EDİRNEKAPI -HARBİYE;http://www.iett.istanbul/tr/main/hatlar/87/TOPKAPI / EDİRNEKAPI -HARBİYE-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+88;YUNUS EMRE MAHALLESİ - TOPKAPI;http://www.iett.istanbul/tr/main/hatlar/88/YUNUS EMRE MAHALLESİ - TOPKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+88A;YUNUS EMRE MAHALLESİ - YENİKAPI;http://www.iett.istanbul/tr/main/hatlar/88A/YUNUS EMRE MAHALLESİ - YENİKAPI-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89;ATAKENT MAHALLESİ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/89/ATAKENT MAHALLESİ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89A;K.S.SÜLEYMAN HASTANESİ - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/89A/K.S.SÜLEYMAN HASTANESİ - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89B;TEPEÜSTÜ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/89B/TEPEÜSTÜ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89C;BAŞAKŞEHİR 4.ETAP - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/89C/BAŞAKŞEHİR 4.ETAP - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89İ;K.S.SÜLEYMAN HASTANESİ / İNÖNÜ MAHALLESİ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/89İ/K.S.SÜLEYMAN HASTANESİ / İNÖNÜ MAHALLESİ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89M;MEHMET AKİF MAHALLESİ - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/89M/MEHMET AKİF MAHALLESİ - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89S;SÖĞÜTLÜÇEŞME - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/89S/SÖĞÜTLÜÇEŞME - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89T;ATAKENT MAHALLESİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/89T/ATAKENT MAHALLESİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+89YB;ATAKENT MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/89YB/ATAKENT MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+90;DRAMAN - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/90/DRAMAN - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+90B;DRAMAN - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/90B/DRAMAN - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+91E;GÖZTEPE MAHALLESİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/91E/GÖZTEPE MAHALLESİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+91O;OTOGAR - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/91O/OTOGAR - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92;YENİ MAHALLE METRO / ATEŞTUĞLA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/92/YENİ MAHALLE METRO / ATEŞTUĞLA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92A;KİRAZLI METRO / ATEŞTUĞLA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/92A/KİRAZLI METRO / ATEŞTUĞLA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92B;YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/92B/YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92C;HAZNEDAR - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/92C/HAZNEDAR - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92K;YENİ MAHALLE METRO / KİRAZLI - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/92K/YENİ MAHALLE METRO / KİRAZLI - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92M;BAĞCILAR DEV. HST. / ÇİNÇİNDERE CAD. - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/92M/BAĞCILAR DEV. HST. / ÇİNÇİNDERE CAD. - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92Ş;YENİ MAHALLE METRO / ATEŞTUĞLA - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/92Ş/YENİ MAHALLE METRO / ATEŞTUĞLA - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+92T;BAĞCILAR DEVLET HASTANESİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/92T/BAĞCILAR DEVLET HASTANESİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+93;ZEYTİNBURNU - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/93/ZEYTİNBURNU - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+93C;ZEYTİNBURNU - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/93C/ZEYTİNBURNU - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+93M;ZEYTİNBURNU - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/93M/ZEYTİNBURNU - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+93T;ZEYTİNBURNU - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/93T/ZEYTİNBURNU - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+94;OSMANİYE - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/94/OSMANİYE - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+94A;BAKIRKÖY - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/94A/BAKIRKÖY - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+94Y;YEŞİLPINAR - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/94Y/YEŞİLPINAR - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97;GÜNEŞLİ - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/97/GÜNEŞLİ - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97A;BASINSİTESİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/97A/BASINSİTESİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97B;ÇAVUŞPAŞA - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/97B/ÇAVUŞPAŞA - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97E;MAHMUTBEY / GÜNEŞLİ - KAZLIÇEŞME;http://www.iett.istanbul/tr/main/hatlar/97E/MAHMUTBEY / GÜNEŞLİ - KAZLIÇEŞME-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97G;YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT;http://www.iett.istanbul/tr/main/hatlar/97G/YENİ MAHALLE METRO / ATEŞTUĞLA - BEYAZIT-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97GE;GÜNEŞLİ - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/97GE/GÜNEŞLİ - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97H;GÜNEŞLİ - AKSARAY;http://www.iett.istanbul/tr/main/hatlar/97H/GÜNEŞLİ - AKSARAY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97İM;BATIŞEHİR - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/97İM/BATIŞEHİR - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97KZ;KOCASİNAN - ZEYTİNBURNU METRO;http://www.iett.istanbul/tr/main/hatlar/97KZ/KOCASİNAN - ZEYTİNBURNU METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97M;GÜNEŞLİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/97M/GÜNEŞLİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+97T;BASINSİTESİ - TAKSİM;http://www.iett.istanbul/tr/main/hatlar/97T/BASINSİTESİ - TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98;BAŞAKŞEHİR 4.ETAP - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98/BAŞAKŞEHİR 4.ETAP - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98A;GÖZTEPE MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98A/GÖZTEPE MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98B;YENİBOSNA KUYUMCUKENT - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98B/YENİBOSNA KUYUMCUKENT - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98C;BAĞCILAR ÇINAR MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98C/BAĞCILAR ÇINAR MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98D;YENİ MAHALLE METRO / ATEŞTUĞLA - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98D/YENİ MAHALLE METRO / ATEŞTUĞLA - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98E;GÜNEŞLİ BASIN TESİSLERİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98E/GÜNEŞLİ BASIN TESİSLERİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98G;ESENLER GİYİMKENT / TURGUTREİS - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98G/ESENLER GİYİMKENT / TURGUTREİS - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98H;BAŞAKŞEHİR METROKENT/MEHMET AKİF MAH - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98H/BAŞAKŞEHİR METROKENT/MEHMET AKİF MAH - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98İ;ATAKENT MAHALLESİ / HALKALI - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98İ/ATAKENT MAHALLESİ / HALKALI - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98K;YENİ MAHALLE METRO / KİRAZLI - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98K/YENİ MAHALLE METRO / KİRAZLI - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98M;İSTOÇ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98M/İSTOÇ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98MB;MEHMET AKİF MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98MB/MEHMET AKİF MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98S;K.S.SÜLEYMAN HASTANESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98S/K.S.SÜLEYMAN HASTANESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98T;ATAKENT MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98T/ATAKENT MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98TB;KÜÇÜKÇEKMECE FATİH MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98TB/KÜÇÜKÇEKMECE FATİH MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+98Y;ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - BAKIRKÖY;http://www.iett.istanbul/tr/main/hatlar/98Y/ESENLER GİYİMKENT / YÜZYIL MAHALLESİ - BAKIRKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+99;AKŞEMSETTİN - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/99/AKŞEMSETTİN - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+99A;GAZİOSMANPAŞA - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/99A/GAZİOSMANPAŞA - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+99Y;YEŞİLPINAR - EMİNÖNÜ;http://www.iett.istanbul/tr/main/hatlar/99Y/YEŞİLPINAR - EMİNÖNÜ-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+121A;BEYKOZ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/121A/BEYKOZ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+121B;KAVACIK - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/121B/KAVACIK - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+121BS;SULTANİYE / SOĞUKSU MAHALLESİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/121BS/SULTANİYE / SOĞUKSU MAHALLESİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+122B;YENİDOĞAN - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/122B/YENİDOĞAN - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+122C;TEPEÜSTÜ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/122C/TEPEÜSTÜ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+122D;TAŞDELEN CUMHURİYET MAHALLESİ - MECİDİYEKÖY;http://www.iett.istanbul/tr/main/hatlar/122D/TAŞDELEN CUMHURİYET MAHALLESİ - MECİDİYEKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
+122H;S.GÖKÇEN HAVALİMANI / YENİŞEHİR - 4.LEVENT METRO;http://www.iett.istanbul/tr/main/hatlar/122H/S.GÖKÇEN HAVALİMANI / YENİŞEHİR - 4.LEVENT METRO-İETT-Otobüs-Sefer-Saatleri-ve-Durakları
