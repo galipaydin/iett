@@ -8,6 +8,7 @@ package org.buyukveri.ibb;
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -128,7 +129,7 @@ public class OtobusHatlari {
                     String yon = gd.attr("data-hat-yon");
                     String hatKodu = gd.attr("data-hat-code");
 //                    System.out.println("hatKodu = " + hatKodu);
-                    String title = gd.getElementsByAttributeValue("class", "DetailTable_title").first().text();
+//                    String title = gd.getElementsByAttributeValue("class", "DetailTable_title").first().text();
 //                    System.out.println("\tyon = " + yon);
 //                    System.out.println("\ttitle = " + title);
 
@@ -141,8 +142,10 @@ public class OtobusHatlari {
                         Elements aa = station.getElementsByAttributeValueContaining("class", "LineStation_action-detail");
                         if (aa.size() > 0) {
                             String line = durakKodu + ";" + durakAdi + ";" + durakSemt;
-                            System.out.println(line);
+                            System.out.print(line);
                             durakFW.write(line);
+                            durakFW.flush();
+
                             link = aa.first().attr("href");
 //                            System.out.println("\ndurakKodu = " + durakKodu);
 //                            System.out.println("\tdurakAdi = " + durakAdi);
@@ -169,7 +172,7 @@ public class OtobusHatlari {
             if (stationmap != null) {
                 String enlem = stationmap.attr("data-map-lat");
                 String boylam = stationmap.attr("data-map-lng");
-//                System.out.println("\t\t" + enlem + "-" + boylam);
+                System.out.print(";" + enlem + ";" + boylam + ";");
                 fw.write(";" + enlem + ";" + boylam + ";");
                 //Duraktan geçen otobüsler
 //                System.out.println("\tDuraktan geçen otobüsler");
@@ -183,6 +186,7 @@ public class OtobusHatlari {
                 }
                 line = line.substring(0, line.length() - 1);
                 fw.write(line + "\n");
+                System.out.println(line);
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -276,7 +280,8 @@ public class OtobusHatlari {
             try {
                 durakSaatleriFW.write("\n");
                 durakSaatleriFW.flush();
-            } catch (Exception ex) {
+            } catch (IOException ex) {
+                System.out.println(ex.getMessage());
             }
         }
     }
@@ -285,8 +290,8 @@ public class OtobusHatlari {
         //http://www.iett.istanbul/tr/main/tahminiGecisSaatleri/?hat=2&durak=403181&yon=G&format=json
         OtobusHatlari o = new OtobusHatlari();
 //        o.createJson();
-//        o.hatListesi("http://www.iett.istanbul/tr/main/hatlar");
-          o.hatListesiOku("/Users/galip/NetBeansProjects/gtfs/gtfs-files/hatlistesi.txt");
+        o.hatListesi("http://www.iett.istanbul/tr/main/hatlar");
+//          o.hatListesiOku("/Users/galip/NetBeansProjects/gtfs/gtfs-files/hatlistesi.txt");
 //        o.duraklar("http://www.iett.istanbul/tr/main/hatlar/2/BOSTANCI%20-%20%C3%9CSK%C3%9CDAR-%C4%B0ETT-Otob%C3%BCs-Sefer-Saatleri-ve-Duraklar%C4%B1");
 //        o.guzergah("http://www.iett.istanbul/tr/main/hatlar/1/KİRAZLITEPE - ACIBADEM - KADIKÖY-İETT-Otobüs-Sefer-Saatleri-ve-Durakları\n");
 //        o.duraktanGecisSaatleri("2", "G","403181");
