@@ -33,7 +33,7 @@ public class OtobusHatlari {
     private Properties p;
     private String dir;
     private JSONObject hatJson;
-    private FileWriter durakFW;
+    private FileWriter durakFW, guzergahFW;
     private FileWriter durakSaatleriFW;
 
     public OtobusHatlari() {
@@ -44,6 +44,7 @@ public class OtobusHatlari {
             System.out.println("this.dir = " + this.dir);
             this.durakFW = new FileWriter(this.dir + "/duraklar.txt");
             this.durakSaatleriFW = new FileWriter(this.dir + "/duraksaatleri.txt");
+            this.guzergahFW = new FileWriter(this.dir + "/guzergah.txt");
 
 //            hatJson = new JSONObject();
         } catch (Exception e) {
@@ -85,9 +86,11 @@ public class OtobusHatlari {
 //                hatArray.put(el1);
 
 //                duraklar(href);
-//                guzergah(href);
-            }
 
+                guzergah(hatKodu, href);
+            }
+            
+            this.guzergahFW.close();
 //            hatJson.put("hatlar", hatArray);
 //            System.out.println(hatJson.toString(2));
         } catch (Exception e) {
@@ -193,17 +196,22 @@ public class OtobusHatlari {
         }
     }
 
-    public void guzergah(String url) {
+    public void guzergah(String hatKodu, String url) {
         try {
+
             Document doc = WebPageDownloader.getPage(url);
 
             Elements linemap = doc.getElementsByAttributeValue("id", "LineMap");
             Elements trips = linemap.first().getElementsByAttributeValueContaining("style", "display:none");
             for (Element trip : trips) {
                 String id = trip.attr("id");
-                System.out.println(id + " " + trip.text().replaceAll("new google.maps.LatLng", ""));
+                String line = hatKodu + ";" + id + ";" + trip.text().replaceAll("new google.maps.LatLng", "");
+                this.guzergahFW.write(line + "\n");
+                this.guzergahFW.flush();
+                System.out.println(line);
             }
         } catch (Exception e) {
+            e.printStackTrace();
         }
     }
 
