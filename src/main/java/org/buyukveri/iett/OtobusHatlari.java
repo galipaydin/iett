@@ -208,11 +208,10 @@ public class OtobusHatlari {
                 String line = hatKodu + ";" + id + ";" + trip.text().replaceAll("new google.maps.LatLng", "");
                 this.guzergahFW.write(line + "\n");
                 this.guzergahFW.flush();
-                System.out.println(line);
+                System.out.println(hatKodu + ";" + id);
             }
         } catch (Exception e) {
-            e.printStackTrace();
-        }
+            System.out.println(e.getMessage());        }
     }
 
     public String convertStreamToString(java.io.InputStream is) {
